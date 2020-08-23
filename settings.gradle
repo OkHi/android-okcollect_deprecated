@@ -1,0 +1,3 @@
+include ':androidokcollect'
+include ':app'
+rootProject.name = "OkHiOkCollect"
